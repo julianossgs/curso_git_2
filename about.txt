@@ -1,1 +1,2 @@
 Add arquivo about.txt
+Alteração do arquivo about.txt
