@@ -2,4 +2,3 @@ Add arquivo about.txt
 Alteração do arquivo about.txt
 Alteração do arquivo about.txt por outro dev da equipe 
 no 1_repositório_clone
-Alteração feita na master(errado)
